@@ -1,2 +1,2 @@
-#Check Sum Possibility with MIPS32
+# Check Sum Possibility with MIPS32
 
