@@ -1,6 +1,6 @@
 # Check Sum Possibility with MIPS32
 
-  Functions respectively gets the target number, the array and the size of the array. It returns 1 if a subset of the array can sum up to the target number and otherwise if it is not possible, it outputs a 0. Recursive backtracking algorithm used for implementation. The sample output for six sample runs with 8 element array examples is as shown below. 
+  Functions respectively gets the target number, the array and the size of the array. It returns 1 if a subset of the array can sum up to the target number and otherwise if it is not possible, it outputs a 0. Recursive backtracking algorithm used for implementations. The sample output for six sample runs with 8 element array examples is as shown below. 
   
 | Array Size | Target Number | Array Elements | Output |
 | --- | --- | --- | --- |
